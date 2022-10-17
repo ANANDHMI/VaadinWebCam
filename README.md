@@ -4,10 +4,11 @@ This project can be used as a starting point to create your own Vaadin applicati
 It contains all the necessary configuration and some placeholder files to get you started.
 
 !IMPORTANT 
-Add jar file with project
-Download file from vaadin directory component - https://vaadin.com/directory/component/vcamera
-extract the file and the vcamera-2.0.6.jar file inside intellij
-In project folder open settings module and add dependencies then select the jar file into the project and rerun maven
+1. Add jar file with project
+2. Download file from vaadin directory component - https://vaadin.com/directory/component/vcamera
+3. Extract the file and add the vcamera-2.0.6.jar file inside intellij
+>>>>Steps to add jar file ,
+>>>># In project folder open settings module and add dependencies then select the jar file into the project and rerun maven
 
 ## Running the application
 
