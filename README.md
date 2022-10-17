@@ -7,8 +7,8 @@ It contains all the necessary configuration and some placeholder files to get yo
 1. Add jar file with project
 2. Download file from vaadin directory component - https://vaadin.com/directory/component/vcamera
 3. Extract the file and add the vcamera-2.0.6.jar file inside intellij
->>>>Steps to add jar file ,
->>>># In project folder open settings module and add dependencies then select the jar file into the project and rerun maven
+4. Steps to add jar file ,
+5. In project folder open settings module and add dependencies then select the jar file into the project and rerun maven
 
 ## Running the application
 
