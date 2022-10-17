@@ -3,6 +3,12 @@
 This project can be used as a starting point to create your own Vaadin application with Spring Boot.
 It contains all the necessary configuration and some placeholder files to get you started.
 
+!IMPORTANT 
+Add jar file with project
+Download file from vaadin directory component - https://vaadin.com/directory/component/vcamera
+extract the file and the vcamera-2.0.6.jar file inside intellij
+In project folder open settings module and add dependencies then select the jar file into the project and rerun maven
+
 ## Running the application
 
 The project is a standard Maven project. To run it from the command line,
@@ -45,3 +51,4 @@ Once the JAR file is built, you can run it using
 - Find add-ons at [vaadin.com/directory](https://vaadin.com/directory).
 - Ask questions on [Stack Overflow](https://stackoverflow.com/questions/tagged/vaadin) or join our [Discord channel](https://discord.gg/MYFq5RTbBn).
 - Report issues, create pull requests in [GitHub](https://github.com/vaadin).
+
